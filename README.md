@@ -1,2 +1,0 @@
-# practicandoGit
-Prácticas en clase
